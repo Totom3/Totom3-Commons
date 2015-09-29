@@ -1,0 +1,7 @@
+name: Totom3Commons
+main: io.github.totom3.commons.CommonsMain
+version: 1.0
+author: Totom3
+description: Totom3 Commons Lib
+
+depend: [BossBars, ProtocolLib, PacketWrapper]
